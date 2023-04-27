@@ -1,5 +1,5 @@
 
-## Yes24 웹사이트의 메뉴구조를 파악하여 ERD도출
+## Yes24 웹사이트의 메뉴구조를 파악하여 ERD도출 
 - http://www.yes24.com/Main/Default.aspx
 
 
